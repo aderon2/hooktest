@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/aderon2/spookyhook
+    rev: 1.0.0
+    hooks:
+    -   id: spookyhook
